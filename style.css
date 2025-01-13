@@ -22,6 +22,7 @@ h1,h2{
     margin-top: 10%;
     margin-bottom: 10%;
     width: 52%;
+    max-width: 500px;
     height: auto;
     background-color: hsl(0, 0%, 100%);
     border-radius: 10px;
