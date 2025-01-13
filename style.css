@@ -19,10 +19,10 @@ h1,h2{
 }
 
 .outer{
-    margin-top: 10%;
+    margin-top: 9%;
     margin-bottom: 10%;
     width: 52%;
-    max-width: 500px;
+    max-width: 600px;
     height: auto;
     background-color: hsl(0, 0%, 100%);
     border-radius: 10px;
@@ -43,6 +43,9 @@ main{
     width: 100%;
     height: auto;
     margin-top: 5%;
+}
+main h1{
+    font-weight: 500;
 }
 .desc{
     font-size: 13px;
